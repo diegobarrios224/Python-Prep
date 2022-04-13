@@ -17,7 +17,7 @@ print(a)
 # In[3]:
 
 
-type(8.5)
+print(type(8.5))
 
 
 # 3) Imprimir el tipo de dato de la variable creada en el punto 1
@@ -25,7 +25,7 @@ type(8.5)
 # In[8]:
 
 
-type(a)
+print(type(a))
 
 
 # 4) Crear una variable que contenga tu nombre
